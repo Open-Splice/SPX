@@ -1,0 +1,4 @@
+name = "math"
+version = "1.0.0"
+description = "Basic math utilities for Splice"
+entry = "math.sp"
